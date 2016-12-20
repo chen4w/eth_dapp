@@ -1,0 +1,29 @@
+{
+  "name": "eth_dapp",
+  "version": "1.0.0",
+  "description": "sta dapps of eth",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chen4w/eth_dapp.git"
+  },
+  "keywords": [
+    "eth",
+    "dapp",
+    "github"
+  ],
+  "author": "c4w",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chen4w/eth_dapp/issues"
+  },
+  "homepage": "https://github.com/chen4w/eth_dapp#readme",
+  "dependencies": {
+    "async": "^2.1.4",
+    "octonode": "^0.7.7",
+    "xlsx": "^0.8.0"
+  }
+}
